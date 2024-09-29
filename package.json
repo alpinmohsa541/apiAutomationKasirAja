@@ -1,0 +1,28 @@
+{
+  "name": "apiautomationkasiraja",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alpinmohsa541/apiAutomationKasirAja.git"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "alpin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alpinmohsa541/apiAutomationKasirAja/issues"
+  },
+  "homepage": "https://github.com/alpinmohsa541/apiAutomationKasirAja#readme",
+  "dependencies": {
+    "chai": "^5.1.1",
+    "jsonschema": "^1.4.1",
+    "supertest": "^7.0.0"
+  }
+}
